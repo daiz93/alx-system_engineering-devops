@@ -1,2 +1,4 @@
-Shell basics learning project.
+rhell basics learning project.
+0-current_working_directory
+1-listit
 
