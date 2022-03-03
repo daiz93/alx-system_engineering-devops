@@ -4,3 +4,5 @@
 
 1-listit : ls === List content of directory
 
+2-bring_me_home : cd === bring to home directory
+
