@@ -6,3 +6,5 @@
 
 2-bring_me_home : cd === bring to home directory
 
+3-lisfiles : ls-l === Display current directory contents in a long format
+
