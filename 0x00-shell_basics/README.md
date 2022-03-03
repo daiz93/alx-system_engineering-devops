@@ -1,4 +1,6 @@
-rhell basics learning project.
-0-current_working_directory
-1-listit
+#Shell Basics Script
+
+0-current_working_directory : pwd === current workinf directory
+
+1-listit : ls === List content of directory
 
