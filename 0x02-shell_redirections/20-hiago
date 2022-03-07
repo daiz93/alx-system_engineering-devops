@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name "*.js" -type f -delete 
+tr -d 'c' | tr -d 'C'
