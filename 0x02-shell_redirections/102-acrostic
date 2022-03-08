@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name "*.js" -type f -delete 
+cut -c1 | paste -s | tr -d "[:blank:]"
