@@ -1,5 +1,5 @@
 # CMD CHALLENGE
-This is non mandatory exercice by Alx-Software Engeneering program who need us to improve our commande line skill
+This is none mandatory exercice by Alx-Software Engeneering program who need us to improve our commande line skill
 
 **Background Context**
 
