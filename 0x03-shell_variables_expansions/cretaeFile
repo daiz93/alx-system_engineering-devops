@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Check for the correct number of arguments
+if [ $# -lt 1 ]; then
+  echo "Usage: $0 file1 [file2 ...]"
+  exit 1
+fi
+
+
+# Loop to create files with '#!/bin/bash' as the first line
+while [ $# -gt 0 ]; do
+  destination_file=$1
+  echo "#!/bin/bash" > "$destination_file"
+  chmod u+x "$destination_file"
+  shift # Move to the next argument
+done
